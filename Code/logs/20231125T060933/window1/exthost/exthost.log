@@ -1,0 +1,14 @@
+2023-11-25 06:09:35.061 [info] Extension host with pid 6394 started
+2023-11-25 06:09:35.061 [info] Skipping acquiring lock for /home/adithyan/.config/Code/User/workspaceStorage/905974efcefb7f438174574ee75689ec.
+2023-11-25 06:09:35.268 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-25 06:09:35.277 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-25 06:09:35.310 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-25 06:09:35.875 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-25 06:09:35.953 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-25 06:09:35.994 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-25 06:09:36.079 [info] Eager extensions activated
+2023-11-25 06:09:36.137 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-25 06:09:36.141 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-25 06:09:37.461 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-11-25 07:05:39.595 [info] Extension host terminating: renderer closed the MessagePort
+2023-11-25 07:05:39.620 [info] Extension host with pid 6394 exiting with code 0

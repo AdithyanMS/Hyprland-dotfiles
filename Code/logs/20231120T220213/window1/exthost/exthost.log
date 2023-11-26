@@ -1,0 +1,16 @@
+2023-11-20 22:02:15.268 [info] Extension host with pid 9633 started
+2023-11-20 22:02:15.268 [info] Skipping acquiring lock for /home/adithyan/.config/Code/User/workspaceStorage/d17159ea13c6566e878712f20211e3a3.
+2023-11-20 22:02:15.289 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-11-20 22:02:15.298 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-20 22:02:15.320 [info] Eager extensions activated
+2023-11-20 22:02:15.339 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-20 22:02:15.342 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-20 22:02:24.965 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-11-20 22:02:26.995 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-11-20 22:02:27.042 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-20 22:25:44.928 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-11-20 22:25:44.962 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-11-20 22:25:45.053 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-11-20 22:25:49.627 [warning] vscode.json-language-features - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2023-11-20 22:30:11.605 [info] Extension host terminating: renderer closed the MessagePort
+2023-11-20 22:30:11.647 [info] Extension host with pid 9633 exiting with code 0
