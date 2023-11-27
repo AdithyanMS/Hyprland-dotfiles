@@ -1,0 +1,12 @@
+2023-11-27 04:56:23.833 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-27 04:56:27.373 [info] [perf] Render performance baseline is 57ms
+2023-11-27 05:35:40.845 [error] Error: The editor could not be opened because the file was not found.
+    at O.fc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2396:24863)
+    at async O.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2396:23949)
+    at async c.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2394:22836)
+    at async c.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2394:21423)
+    at async c.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2394:20389)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2524:22288
+    at async u.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2594:45629)
+2023-11-27 07:51:02.241 [info] Unable to reload {0}: {1} file:///home/adithyan/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json
+2023-11-27 08:07:39.653 [info] Unable to reload {0}: {1} file:///home/adithyan/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal.json

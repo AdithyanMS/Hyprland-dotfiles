@@ -1,0 +1,58 @@
+@import './../../.cache/wal/colors-waybar.css';
+
+*{
+	border: none;
+}
+
+window {
+	font-size: 22px;
+	font-family: "Roboto Mono Medium";
+	color: #ffffff;
+	/* background-color: rgba(228, 239, 255, 0.63); */
+	background: linear-gradient(90deg,rgba(0, 0, 0,0.3),rgba(255,255,255,0.3));
+	/* background: transparent; */
+	/* border-bottom: 3px solid white; */
+	padding: 10px;
+	border-radius: 10px;
+	padding-top: 500px;
+}
+
+/* #outer-box{
+	background-color: #dd77ff;
+	border-radius: 200px;
+} */
+/* #inner-box{
+	overflow: hidden;
+} */
+/* #scroll{
+	overflow: hidden;
+} */
+
+#entry{
+	padding-left: 10px;
+	color: rgba(255,255,255,0.6);
+}
+
+#entry:selected {
+	background-color: rgba(28, 190, 190, 0.582);
+	background: linear-gradient(45deg,rgb(0, 140, 255),#ffffff);
+	color: blue;
+	border-radius: 8px;
+}
+
+#text:selected {
+	color: rgb(9, 43, 77);
+}
+
+#input{
+	/* background-color: rgba(144, 194, 239,0.7); */
+	background: transparent;
+	color: rgb(87, 88, 88);
+	padding: 6px;
+}
+
+
+image{
+	margin-left: 4px;
+	margin-right: 4px;
+}

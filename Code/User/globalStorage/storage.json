@@ -6,6 +6,7 @@
             "file:///home/adithyan/.config/wofi": "__default__profile__",
             "file:///home/adithyan/.config/alacritty": "__default__profile__",
             "file:///home/adithyan/.config/hypr": "__default__profile__",
+            "file:///home/adithyan/.cache/wal": "__default__profile__",
             "file:///home/adithyan/.config": "__default__profile__"
         },
         "emptyWindows": {}
@@ -31,9 +32,9 @@
             "backupPath": "/home/adithyan/.config/Code/Backups/7708ec3c3381f38cedf4efdedd540278",
             "uiState": {
                 "mode": 1,
-                "x": 967,
+                "x": 10,
                 "y": 40,
-                "width": 943,
+                "width": 1900,
                 "height": 1030
             }
         },
@@ -98,6 +99,17 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/adithyan/.cache/wal",
+                                        "path": "/home/adithyan/.cache/wal",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.cache/wal"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/adithyan/.config/hypr",
                                         "path": "/home/adithyan/.config/hypr",
                                         "scheme": "file"
@@ -140,6 +152,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adithyan/.cache/wal/colors.css",
+                                        "path": "/home/adithyan/.cache/wal/colors.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.cache/wal/colors.css"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -219,6 +242,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -1730,19 +1760,19 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1f1f1f",
+    "themeBackground": "#0e180d",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cccccc",
-            "background": "#1f1f1f",
-            "editorBackground": "#1f1f1f",
-            "titleBarBackground": "#181818",
-            "activityBarBackground": "#181818",
-            "sideBarBackground": "#181818",
-            "statusBarBackground": "#181818",
-            "statusBarNoFolderBackground": "#1f1f1f"
+            "foreground": "rgba(201, 202, 193, 0.6)",
+            "background": "#0e180d",
+            "editorBackground": "#0e180d",
+            "titleBarBackground": "#0e180d",
+            "activityBarBackground": "#0e180d",
+            "sideBarBackground": "#0e180d",
+            "statusBarBackground": "#0e180d",
+            "statusBarNoFolderBackground": "#111d10"
         },
         "layoutInfo": {
             "sideBarSide": "left",
