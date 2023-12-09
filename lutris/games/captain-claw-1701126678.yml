@@ -1,0 +1,5 @@
+game:
+  exe: /home/adithyan/Games/Claw/CLAW.EXE
+system:
+  locale: ''
+wine: {}

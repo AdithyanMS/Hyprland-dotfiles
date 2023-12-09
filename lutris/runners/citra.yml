@@ -1,0 +1,4 @@
+citra:
+  runner_executable: /bin/citra-qt
+system:
+  locale: ''

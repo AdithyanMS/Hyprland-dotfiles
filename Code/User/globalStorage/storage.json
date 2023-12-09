@@ -7,9 +7,12 @@
             "file:///home/adithyan/.config/alacritty": "__default__profile__",
             "file:///home/adithyan/.config/hypr": "__default__profile__",
             "file:///home/adithyan/.cache/wal": "__default__profile__",
+            "file:///home/adithyan": "__default__profile__",
             "file:///home/adithyan/.config": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1702145549882": "__default__profile__"
+        }
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
@@ -24,18 +27,21 @@
                 "folderUri": "file:///home/adithyan/.config"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1702145549882"
+            }
+        ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/adithyan/.config",
-            "backupPath": "/home/adithyan/.config/Code/Backups/7708ec3c3381f38cedf4efdedd540278",
+            "backupPath": "/home/adithyan/.config/Code/Backups/1702145549882",
             "uiState": {
                 "mode": 1,
-                "x": 10,
-                "y": 40,
-                "width": 1900,
-                "height": 1030
+                "x": 12,
+                "y": 42,
+                "width": 940,
+                "height": 505
             }
         },
         "openedWindows": []
@@ -99,6 +105,17 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/adithyan",
+                                        "path": "/home/adithyan",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/adithyan"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/adithyan/.cache/wal",
                                         "path": "/home/adithyan/.cache/wal",
                                         "scheme": "file"
@@ -157,34 +174,111 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///data/misc/creds/github_token",
+                                        "path": "/data/misc/creds/github_token",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/data/misc/creds/github_token"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///var/log/nvidia-installer.log",
+                                        "path": "/var/log/nvidia-installer.log",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/var/log/nvidia-installer.log"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///etc/mkinitcpio.conf",
+                                        "path": "/etc/mkinitcpio.conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/etc/mkinitcpio.conf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///data/Downloads/citra_log.txt",
+                                        "path": "/data/Downloads/citra_log.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/data/Downloads/citra_log.txt"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adithyan/Downloads/Pokemon%20Super%20Mystery%20Dungeon%20%28USA%29/readme.txt",
+                                        "path": "/home/adithyan/Downloads/Pokemon Super Mystery Dungeon (USA)/readme.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/Pokemon Super Mystery Dungeon (USA)/readme.txt"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adithyan/Downloads/Captain_Claw/Captain_Claw_Win_Files_EN_v1.4.4.4/How%20to%20install.url",
+                                        "path": "/home/adithyan/Downloads/Captain_Claw/Captain_Claw_Win_Files_EN_v1.4.4.4/How to install.url",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/Captain_Claw/Captain_Claw_Win_Files_EN_v1.4.4.4/How to install.url"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adithyan/.config/wlogout/style.css",
+                                        "path": "/home/adithyan/.config/wlogout/style.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/wlogout/style.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adithyan/misc/default_configs/rofi/config%20%28copy%201%29.rasi",
+                                        "path": "/home/adithyan/misc/default_configs/rofi/config (copy 1).rasi",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/misc/default_configs/rofi/config (copy 1).rasi"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/adithyan/misc/default_configs/rofi/config.rasi",
+                                        "path": "/home/adithyan/misc/default_configs/rofi/config.rasi",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/misc/default_configs/rofi/config.rasi"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/adithyan/.cache/wal/colors.css",
                                         "path": "/home/adithyan/.cache/wal/colors.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/.cache/wal/colors.css"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/adithyan/.config/waybar/config.jsonc",
-                                        "path": "/home/adithyan/.config/waybar/config.jsonc",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/waybar/config.jsonc"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/adithyan/.config/wofi/style.css",
-                                        "path": "/home/adithyan/.config/wofi/style.css",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/wofi/style.css"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -231,8 +325,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -242,13 +335,6 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
-                                {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -382,10 +468,6 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
-                    },
-                    {
-                        "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -581,8 +663,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar",
-                                    "checked": true
+                                    "label": "&&Primary Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -861,7 +942,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1383,11 +1465,6 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
-            "workbench.action.closeFolder": {
-                "label": "Ctrl+K F",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k f"
-            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1760,26 +1837,26 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#0e180d",
+    "themeBackground": "#1f1f1f",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "rgba(201, 202, 193, 0.6)",
-            "background": "#0e180d",
-            "editorBackground": "#0e180d",
-            "titleBarBackground": "#0e180d",
-            "activityBarBackground": "#0e180d",
-            "sideBarBackground": "#0e180d",
-            "statusBarBackground": "#0e180d",
-            "statusBarNoFolderBackground": "#111d10"
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "activityBarBackground": "#181818",
+            "sideBarBackground": "#181818",
+            "statusBarBackground": "#181818",
+            "statusBarNoFolderBackground": "#1f1f1f"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 235,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }

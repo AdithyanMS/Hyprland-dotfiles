@@ -1,0 +1,6 @@
+[Default Applications]
+application/x-7z-compressed=org.kde.ark.desktop
+x-scheme-handler/discord-719647875465871400=discord-719647875465871400.desktop
+
+[Added Associations]
+application/x-7z-compressed=org.kde.ark.desktop;
